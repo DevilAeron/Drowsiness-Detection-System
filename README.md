@@ -58,7 +58,7 @@ python app1.py
 
 ### Step 5: 
 Open your browser and in the search bar type: 
-<b>localhost:8000</b> as this port is mostly used by flask. 
+<b>localhost:5000</b> as this port is mostly used by flask. 
 In case, this port is not available in your system, flask will try to use another port. The port number will be displayed in the command prompt.
 So, type in the same port number in that case as: 
 <b>localhost:<port_number></b>.
