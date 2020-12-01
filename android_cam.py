@@ -33,7 +33,7 @@ total_mar=[]
 ts=[]
 total_ts=[]
 
-url = "http://192.168.29.223:8080/shot.jpg"
+url = "http://<YOUR_IP_HERE>/shot.jpg"
 
 # Construct the argument parser and parse the arguments 
 ap = argparse.ArgumentParser() 
